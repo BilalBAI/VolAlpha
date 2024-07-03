@@ -1,0 +1,8 @@
+{
+    "s-config": {
+        "baseurl": "",
+        "s_subdir": ""
+    },
+    "DB_HIST": "${DB_CON_STR}",
+    "all-books": []
+}
