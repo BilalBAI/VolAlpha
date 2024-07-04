@@ -126,7 +126,7 @@ class DashApp:
                     html.H4(id='total_risk'),
                     html.H4(id='update_time', style={'color': 'white'}),
                     html.H4('Currency: USD', style={'color': 'white'}),
-                    html.H3('Hist Liquidity Risk', style={'color': 'white'}),
+                    html.H3('Hist Risk', style={'color': 'white'}),
                     dcc.Dropdown(
                         id='hist-dropdown',
                         options=[{
