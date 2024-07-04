@@ -1,6 +1,4 @@
-# PortRisk
-
-https://github.com/BilalBAI/portfolio-stress-test
+# [PortRisk](https://github.com/BilalBAI/portfolio-stress-test)
 
 PortRisk is a Python-based stress testing tool designed to evaluate portfolio risk under various stress scenarios. It leverages the Bloomberg API for data retrieval and offers a modular structure for customizable and flexible usage.
 
