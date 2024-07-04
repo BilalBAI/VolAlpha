@@ -9,8 +9,8 @@ import dash_table
 from dash_table.Format import Format, Group, Scheme, Sign
 import plotly.graph_objs as go
 
-from cftl_common.config import get_config
-from cftl_common.clients.stash import StashClient
+from dummy.config import get_config
+from dummy.clients.stash import StashClient
 
 
 def money(decimals, sign=Sign.default):
